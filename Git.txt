@@ -1,0 +1,5 @@
+Hola a todos
+
+Este es mi proyecto de aprendizaje sobre Git
+
+Leidy Paola Rodriguez
