@@ -2,5 +2,4 @@ Hola a todos
 
 Este es mi proyecto de aprendizaje sobre Git
 
-Soy Leidy Paola Rodriguez, tengo 30 años y naci en Colombia.
-Vivo en Bogota pero quiero vivir en medellin o fuera del pais.
+El curso esta demasiado practico e interesante.
