@@ -1,4 +1,4 @@
-# HyperBlog :tw-1f49a:
+# HyperBlog.Green Heart
 Curso de Git y GitHub
 > El curso de Git y GitHub de Platzi es lo que me hacia falta para mejorar mis conocimientos y encaminar mi perfil laboral con mis aspiraciones profesionales.
 
