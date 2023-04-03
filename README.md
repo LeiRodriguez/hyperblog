@@ -2,7 +2,7 @@
 Curso de Git y GitHub
 > El curso de Git y GitHub de Platzi es lo que me hacia falta para mejorar mis conocimientos y encaminar mi perfil laboral con mis aspiraciones profesionales.
 
-Soy Leidy Rodriguez, Ingeniera de Sistemas.
+Soy Leidy Rodriguez ~ Ingeniera de Sistemas.
 
 DevOps
 
